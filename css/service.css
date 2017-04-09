@@ -60,40 +60,40 @@
 	transition: all 0.4s ease-in-out 0.2s;
 }
 .ch-img-1 { 
-	background-image: url(../images/serv-img1.jpg);
+	background-image: url(../images/serv.jpg);
 }
 .ch-info .ch-info-back1 { 
-	background-image: url(../images/serv-img1-1.jpg);
+	background-image: url(../images/serv1.jpg);
 }
 .ch-img-2 { 
-	background-image: url(../images/serv-img2.jpg);
+	background-image: url(../images/serv.jpg);
 }
 .ch-info .ch-info-back2 { 
-	background-image: url(../images/serv-img2-2.jpg);
+	background-image: url(../images/serv1.jpg);
 }
 .ch-img-3 { 
-	background-image: url(../images/serv-img3.jpg);
+	background-image: url(../images/serv.jpg);
 }
 .ch-info .ch-info-back3 { 
-	background-image: url(../images/serv-img3-3.jpg);
+	background-image: url(../images/serv1.jpg);
 }
 .ch-img-4 { 
-	background-image: url(../images/serv-img4.jpg);
+	background-image: url(../images/serv.jpg);
 }
 .ch-info .ch-info-back4 { 
-	background-image: url(../images/serv-img4-4.jpg);
+	background-image: url(../images/serv1.jpg);
 }
 .ch-img-5 { 
-	background-image: url(../images/serv-img5.jpg);
+	background-image: url(../images/serv.jpg);
 }
 .ch-info .ch-info-back5 { 
-	background-image: url(../images/serv-img5-5.jpg);
+	background-image: url(../images/serv1.jpg);
 }
 .ch-img-6 { 
-	background-image: url(../images/serv-img6.jpg);
+	background-image: url(../images/serv.jpg);
 }
 .ch-info .ch-info-back6 { 
-	background-image: url(../images/serv-img6-6.jpg);
+	background-image: url(../images/serv1.jpg);
 }
 .ch-info h4 {
     color: #fff;
